@@ -45,14 +45,14 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 📊 GitHub Stats  
-![Disandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=false)  
+![Disandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DisanduRodrigo&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=DisanduRodrigo&theme=tokyonight&hide_border=false)  
 
 ---
 
 ## 🌐 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/)  
-- [GitHub](https://github.com/YOUR-USERNAME)  
+- [GitHub](https://github.com/DisanduRodrigo)  
 
 ---
 # Hi 👋, I'm Disandu Rodrigo  
@@ -83,19 +83,19 @@ Passionate about building scalable and impactful applications, I specialize in b
 ---
 
 ## 📊 GitHub Stats  
-![Disandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)  
+![Disandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DisanduRodrigo&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=DisanduRodrigo&theme=tokyonight&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DisanduRodrigoE&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📈 Contribution Graph  
-[![Disandu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Disandu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DisanduRodrigo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
 ## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=DisanduRodrigo&label=Profile%20Views&color=0e75b6&style=flat)  
 
 ---
 
