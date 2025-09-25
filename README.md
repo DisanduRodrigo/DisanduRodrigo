@@ -1,4 +1,4 @@
-  								  Hi 👋, I'm Chirath Rothila
+  								  Hi 👋, I'm Disandu Rodrigo
 🌐 Full Stack Developer | Java & Spring Boot Enthusiast
 
 Passionate about crafting seamless web applications, I specialize in both frontend and backend development. From designing user interfaces to building robust APIs, I combine creativity with technical expertise to deliver scalable solutions. With a strong foundation in **Java** and **Spring Boot**, I create efficient, high-performing backend systems while keeping the user experience at the forefront. I also explore the intersection of **computer vision** and **machine learning**, eager to unlock new possibilities for intelligent systems. Join me in building the future of technology!
