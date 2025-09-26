@@ -66,14 +66,14 @@ Passionate about building scalable and impactful applications, I specialize in b
 ## 📫 **How to reach me**
 
 - 📧 **Email**: [disandurodrigo@gmail.com](mailto:disandurodrigo@gmail.com)
-- 📞 **Phone**: 072 065 96 21
-- **<a href="https://linkedin.com/in/disandu-rodrigo-b258701a7/" target="blank">
+- 📞 **Phone**: +94 72 065 96 21
+<!-- - **<a href="https://linkedin.com/in/disandu-rodrigo-b258701a7/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="25" />
   </a> **LinkedIn**:  [Disandu Rodrigo](https://linkedin.com/in/disandu-rodrigo-b258701a7)**
 - **<a href="https://www.facebook.com/share/1gznbouusm/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="15" width="25" />
   </a> **FaceBook**:  [disandu.rodrigo](https://www.facebook.com/disandu.rodrigo/)**
- 
+ -->
 
 
 
