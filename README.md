@@ -14,7 +14,7 @@ Passionate about building scalable and impactful applications, I specialize in b
 ### 🎥 **Portfolio Showcase**
 
 
-### 🌐 [Live Portfolio]()
+### 🌐 [Live Portfolio](https://disandurodrigo-portfolio.vercel.app/)
 
 🚀 Check out my portfolio in action! Below is a preview of some of my work:
 
@@ -25,19 +25,19 @@ Passionate about building scalable and impactful applications, I specialize in b
 <table align="center" style="background-color: black;">
 <tr border="none">
 <td width="50%" align="center">
+
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DisanduRodrigo&show_icons=true&locale=en&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DisanduRodrigo&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
   <br></br>
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=DisanduRodrigo&show_icons=true&locale=en&layout=compact&theme=dark"/>
-  
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DisanduRodrigo&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
   </td>
 </tr>
 </table>
 
----
+
 
 <!--## 💡 Skills & Technologies
 
@@ -55,18 +55,10 @@ Passionate about building scalable and impactful applications, I specialize in b
 </div>
 
 
-
-
-
-
-### 💬 Ask me about  
-- Java, Spring Boot, Android, Web Development, IoT  
-
-
 ## 📫 **How to reach me**
 
 - 📧 **Email**: [disandurodrigo@gmail.com](mailto:disandurodrigo@gmail.com)
-- 📞 **Phone**: +94 72 065 96 21
+- 📞 **Phone**: +94 72 065 9621
 <!-- - **<a href="https://linkedin.com/in/disandu-rodrigo-b258701a7/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="25" />
   </a> **LinkedIn**:  [Disandu Rodrigo](https://linkedin.com/in/disandu-rodrigo-b258701a7)**
@@ -80,8 +72,11 @@ Passionate about building scalable and impactful applications, I specialize in b
 
 ## 🔧 Languages and Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,androidstudio,js,html,css,mysql,firebase,git,arduino,react,nodejs,laravel,php,,hibernate,ts,bootstrap,github,postman,nextjs,py,vscode,idea&perline=14" />  
+  <img src="https://skillicons.dev/icons?i=java,spring,androidstudio,js,html,css,mysql,firebase,git,arduino,react,nodejs,laravel,php,ts,bootstrap,github,postman,nextjs,py,vscode,idea&perline=11" />  
 </p>  
+
+
+
 
 ---
  
