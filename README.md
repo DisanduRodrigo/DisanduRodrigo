@@ -16,7 +16,7 @@ Passionate about building scalable and impactful applications, I specialize in b
 
 ### 🌐 [Live Portfolio](https://disandurodrigo-portfolio.vercel.app/)
 
-🚀 Check out my portfolio in action! Below is a preview of some of my work:
+🚀 Check out my portfolio in action! Above is a preview of some of my work:
 
 ---
 
